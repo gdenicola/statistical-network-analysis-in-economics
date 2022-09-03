@@ -1,0 +1,389 @@
+Begin,End,Type,Mag,States Directly Involved,Brief Description,Deaths,References,Code
+1945,1946,IN,2,Indonesia,Independence,10000,a b c f g h,1
+1945,1947,EV,2,Iran,Azerbaijani and Kurd rebellions,2000,c f g,1
+1945,1949,CW,5,Greece,Greek civil war,150000,a b c f g h o,1
+1945,1954,IN,6,Vietnam,Indochina independence,500000,a b c f g h,1
+1946,1954,IW,2,France,Indochina independence,30000,a b c f g h,1
+1946,1946,CV,1,Bolivia,President Villarroel ousted by general armed uprising,1000,c f o,1
+1946,1947,IN,2,Algeria,Setif/AML Rebellion,6000,p,1
+1946,1948,EW,6,India,"""Partition""--Muslims vs Hindus/Sikhs",1000000,a b c d f g,0
+,,,,Pakistan,,,,0
+1946,1950,CW,6,China,Chinese civil war,1000000,a b c f h o,1
+1947,1947,IV,1,China,Taiwan invasion,1000,a c h o,1
+1947,1947,CW,3,China,Repression of Taiwan dissidents,20000,a c e f,1
+1947,1947,CV,1,Paraguay,"Paraguay Civil War ""Febrerista Insurrection""",1500,a c f h o,1
+1947,1948,CV,1,North Yemen,Civil violence (Yahya clan coup attempt),5000,a c h o,1
+1947,1948,IN,4,Madagascar,Colonial repression,40000,a b c e f g h,1
+1947,1949,EV,2,India,Kashmir rebellion,4000,a c f g h n,1
+1948,1948,IN,1,Israel,Independence,4000,b,1
+1948,1948,CV,1,Colombia,Civil violence (Conservatives),1000,a b c f h o,1
+1948,1948,CV,1,Costa Rica,Civil violence (National Union),2000,a c f g h o,1
+1948,1948,CV,1,South Korea,Civil violence (Army),1000,a c f,1
+1948,1948,CV,1,India,Civil violence (Hyderabad),2500,a c f g h,1
+1948,1949,IW,5,Egypt,Palestine-Israel war,10000,a b c d f g h,0
+,,,,Israel,,,,0
+,,,,Jordan,,,,0
+,,,,Lebanon,,,,0
+,,,,Syria,,,,0
+1948,1956,EW,2,Malaysia,Repression of Chinese by Malay militia,12500,e,1
+1948,2014,EW,4,Myanmar,"Ethnic war (Karen, Shan, and others)",110000,a b c d e f h j k l o p,1
+1948,1960,CW,5,Colombia,"""La Violencia"" civil war (Liberals)",250000,a b c f h,1
+1950,1950,IV,2,China,International violence (Formosa Straits),5000,f g,0
+,,,,Taiwan,,,,0
+1950,1950,EV,2,Indonesia,Ethnic violence (Moluccans),5000,a b c f h o,1
+1950,1951,IW,2,China,Tibet invasion,2000,a c f g h k,1
+1950,1951,CV,4,China,Repression of the landlords,1500000,a e,1
+1950,1952,CV,3,Philippines,Civil violence (Huks),10000,a b c f h o,1
+1950,1953,IV,2,Myanmar,Chinese Kuomintang forces led by Gen. Li Mi,3000,c p,1
+1950,1953,CW,6,North Korea,Korean War (civil war),1500000,a b c f g h n,0
+,,,,South Korea,,,,0
+1950,1953,IV,3,United States,Korean civil war,54000,a b c f g h n,1
+1950,1953,IV,4,China,Korean civil war,100000,a b c f g h n,1
+1950,1960,CV,3,Malaysia,Independence and civil violence,15000,a b f g h o,1
+1951,1951,CV,1,Thailand,Mahattan Naval Revolt,1200,c p,1
+1952,1952,CV,1,Egypt,Civil violence (Nasser coup),1000,f,1
+1952,1952,CV,2,Bolivia,"""National Revolution""",2000,a c f h,1
+1952,1954,IN,2,Tunisia,Independence,3000,a c f g h,1
+1952,1963,IN,3,Kenya,Independence (Mau Mau rebellion),20000,a b c f g h,1
+1952,2013,EW,2,India,Ethnic war (northeast tribals; Assam separatists),25500,c k o p,1
+1953,1953,CV,1,Indonesia,Civil violence (Darul Islam),1000,a b c h o,1
+1953,1953,CV,1,Iran,Ouster of Mossadeq government by Shah loyalists,800,p,1
+1953,1954,CV,3,Vietnam,Repression of landlords,15000,e,1
+1953,1956,IN,2,Morocco,Independence,3000,a c f g h,1
+1954,1954,CV,1,Guatemala,Civil violence (coup against Arbenz),1000,a c h o,1
+1954,1955,IW,3,China,First Taiwan Strait Crisis,25000,c p,0
+,,,,Taiwan,,,,0
+1954,1955,EV,2,Taiwan,Ethnic violence (Native Taiwanese v KMT),5000,a c,1
+1954,1962,IN,5,Algeria,Independence,100000,a b c f g h k,1
+1954,1962,IW,3,France,Algerian independence war,18000,a b c f g h k,1
+1955,1955,CV,1,Costa Rica,Civil violence,1000,c f,1
+1955,1955,CV,2,Taiwan,Civil violence (Taiwanese v KMT),5000,a,1
+1955,1955,CV,2,Argentina,Civil violence (army rebellion),3000,a c h k,1
+1955,1960,IN,3,Cameroon,Independence,30000,a b c f h,1
+1956,1956,IW,2,Egypt,Suez War,3000,a c d f g h n,1
+1956,1956,IW,3,Hungary,International war,20000,a b c f g h o,0
+,,,,Soviet Union,,,,0
+1956,1960,EV,1,Yemen,Ethnic violence (Yemeni-Adenese clans),1000,c f,1
+1956,1967,EW,4,China,Ethnic war (Tibetans),100000,a b c e f g h j o,1
+1956,1972,EW,5,Sudan,Ethnic warfare (Islamic v African),500000,a b c e f g h k o,1
+1957,1957,IV,1,Honduras,International violence (border dispute),1000,c f,0
+,,,,Nicaragua,,,,0
+1957,1958,IV,1,Mauritania,International violence (border dispute),1000,f g,0
+,,,,Morocco,,,,0
+1957,1959,CW,2,Cuba,Civil war (Castro ousts Batista),5000,a b c f h k o,1
+1957,1961,CV,3,Indonesia,Civil violence (dissident military),30000,a b c f h k o,1
+1958,1958,CV,1,Lebanon,Civil violence,2000,a c f g h k o,1
+1958,1958,CV,1,Iraq,Civil violence (coup ousts monarchy),2000,a c g o,1
+1958,1958,CV,1,Venezuela,Civil violence (popular revolt against President Perez Jimenez),800,p,1
+1958,1975,CW,7,North Vietnam,"""Vietnam War"" (civil war)",2000000,a b c e g h k n o,0
+,,,,South Vietnam,,,,0
+1959,1959,CV,1,Iraq,Civil violence (Shammar tribe),2000,a c h,1
+1959,1959,CW,2,China,Repression of counter-revolutionaries,50000,k,1
+1959,1966,EW,3,Rwanda,PARMEHUTU overthrow of Tutsi monarchy; repression of Tutsis,75000,a b c e f g h k o p,1
+1960,1961,EV,1,Pakistan,Ethnic violence (Pushtun),1000,k,1
+1960,1965,CW,4,DR Congo,Katanga civil war,100000,a b c e g h k o,1
+1960,1973,CW,3,Laos,Civil war,25000,a b c e f h k o,1
+1961,1961,IV,1,Cuba,"US-instigated ""Bay of Pigs"" invasion",700,c p,1
+1961,1961,CV,1,Tunisia,Colonial violence,1000,c f,1
+1961,1975,IN,4,Angola,Independence,50000,a b c e f g h,1
+1961,1975,IV,1,Portugal,Angolan independence,7000,a b c e f g h,1
+1961,1993,EW,5,Iraq,Ethnic warfare (Kurds),150000,a b c d e f h j k l o,1
+1962,1962,IV,1,China,International violence (border dispute),2000,a b c f g h n,0
+,,,,India,,,,0
+1962,1963,CV,1,Algeria,Civil violence (rebel factions),2000,a c e h o,1
+1962,1964,IV,1,Burundi,International violence,1500,c p,0
+,,,,Rwanda,,,,0
+1962,1966,IV,1,Indonesia,International violence (north Borneo),1500,c g,0
+,,,,Malaysia,,,,0
+1962,1970,CW,3,Yemen,Civil war (following coup),40000,a b c f h k o,1
+1962,1973,EV,1,Ethiopia,Eritrean separatists,2000,p,1
+1962,1974,IN,3,Guinea-Bissau,Independence,15000,h m,1
+1963,1963,CV,1,Iraq,Military coup ousts Kassem and aftermath,5000,c p,1
+1963,1963,CV,1,Iran,Civil violence (land reform),1000,k,1
+1963,1964,IV,1,Somalia,International violence,1000,c f,0
+,,,,Egypt,,,,0
+1963,1964,IV,1,Algeria,International violence (border dispute),1000,c f g,0
+,,,,Morocco,,,,0
+1963,1968,CV,2,Cyprus,Civil violence (Makarios crisis),2000,k o,1
+1963,1993,EW,2,Indonesia,Ethnic warfare (Papuan-West Irian),15000,j o,1
+1964,1964,CV,1,Zambia,Civil violence,1000,a c,1
+1964,1964,CV,1,Tanzania,Zanzibar Revolution,2500,c p,1
+1964,1964,IV,1,Ethiopia,Ogaden clashes,2000,p,0
+,,,,Somalia,,,,0
+1964,1966,EV,1,Kenya,Shifta; Somali separatism,1000,p,1
+1964,1973,IV,3,United States,Vietnamese civil war,60000,a b c e g h k n o,1
+1965,1965,EV,2,Burundi,Ethnic violence (failed coup; Hutu/Tutsi),5000,k,1
+1965,1965,CV,2,Dominican Republic,Civil violence,3000,a b c h k o,1
+1965,1965,IW,3,India,2nd Kashmir War,20000,a b c d f g h n,0
+,,,,Pakistan,,,,0
+1965,1966,CW,5,Indonesia,Repression of Chinese/Communists,500000,a b c e f k o,1
+1965,1968,CV,1,United States,Civil violence (urban Afro-American unrest),1000,k,1
+1965,1975,IN,3,Mozambique,Independence (FRELIMO),30000,a b f g h,1
+1965,1975,IV,1,Portugal,Mozambique independence,5000,a b f g h,1
+1965,1983,CW,2,Thailand,Communist insurgency,8000,l p,1
+1965,1990,IN,2,Namibia,Independence,25000,b c f g,1
+1965,1994,CW,4,Chad,Civil war,75000,a b c f g h j k l o,1
+1965,2013,EW,2,Israel,Ethnic war (Arab Palestinians/PLO),22000,d f g j k l o p,1
+1966,1966,CW,3,Nigeria,Repression of Ibo,20000,c e,1
+1966,1966,EV,1,Uganda,Ethnic violence (Buganda),2000,a b c h o,1
+1966,1970,EW,6,Nigeria,Ethnic warfare (Biafra separatism),200000,a b c f h k o,1
+1966,1975,CW,5,China,"""Cultural Revolution""",500000,a c e f h k,1
+1966,1996,EW,5,Guatemala,Repression of indigenous peoples,150000,a b c d e f h j k l o,1
+1967,1967,CV,1,DR Congo,Civil violence,800,c p,1
+1967,1970,IW,4,Egypt,"""Six-Day War"" and war of attrition",75000,a b c d f g h n,0
+,,,,Israel,,,,0
+,,,,Jordan,,,,0
+,,,,Syria,,,,0
+1968,1968,CV,1,France,Civil violence (student and labor unrest),3000,f,1
+1968,1968,CV,1,Czechoslovakia,"""Prague Spring"" civil violence",1000,c f g,1
+1968,1982,CV,1,India,Repression of Naxalites,2000,e,1
+1969,1969,IV,1,Soviet Union,Ussuri River border dispute,1000,a c f g,0
+,,,,China,,,,0
+1969,1969,IW,2,El Salvador,"""Soccer War""",5000,a b c f g h n,0
+,,,,Honduras,,,,0
+1969,1979,CV,4,Equatorial Guinea,Repression of dissidents,50000,p,1
+1969,1994,EV,2,United Kingdom,Ethnic violence (Northern Ireland/IRA),3000,b c d f j k l o,1
+1970,1970,CV,3,Jordan,Civil violence (Palestinians),10000,a b c f g h k o,1
+1970,1975,CV,1,Oman,Civil violence (Dhofar rebellion),3000,g k o,1
+1970,1975,CW,5,Cambodia,Civil war,150000,a b c f h k o,1
+1970,1982,EV,1,Italy,Ethnic violence (Sardinians),2000,f,1
+1971,1971,CV,2,Sri Lanka,Civil violence (attempted coup),10000,a b c f h k o,1
+1971,1971,EW,6,Bangladesh,Ethnic war (Bengali independence),1000000,a b c e f g h k o,0
+,,,,Pakistan,,,,0
+1971,1971,IW,3,India,International war,11000,a b c d g h n,0
+,,,,Pakistan,,,,0
+1971,1978,EW,5,Uganda,Ethnic warfare (Idi Amin regime),250000,a b e k o,1
+1972,1972,EV,2,Burundi,Ethnic violence (Hutus target Tutsis),2000,b f g o,1
+1972,1973,EW,4,Burundi,Repression of Hutus,100000,a b c e f g h k o,1
+1972,1979,EV,3,Zimbabwe,Ethnic violence (ZANU/ZAPU v Whites),20000,a b f g h k o,1
+1972,1997,CW,3,Philippines,Civil warfare (New Peoples Army),40000,a b c d h l o p,1
+1972,2013,EW,3,Philippines,Ethnic warfare (Moros),52000,a b c d e f h j k l o p,1
+1973,1973,IW,3,Egypt,"""Yom Kippur War""",16000,a b c d f g h n,0
+,,,,Israel,,,,0
+,,,,Syria,,,,0
+1973,1973,CV,2,Chile,Civil violence (army ouster of Allende),5000,a b c f,1
+1973,1977,EW,2,Pakistan,Ethnic warfare (Baluch separatism),12000,a b e f h k o,1
+1974,1974,CV,2,Cyprus,Civil violence,5000,a b c f g h k n o,1
+1974,1975,IV,1,Iran,International violence (Shatt el Arab),1000,f g,0
+,,,,Iraq,,,,0
+1974,1976,CW,3,Chile,"Repression of dissidents (""disappeared"")",20000,a b e k,1
+1974,1985,CV,2,Turkey,Civil violence,8000,f,1
+1974,1991,EW,6,Ethiopia,Ethnic warfare (Eritreans and others),750000,a b c d e f h j k l o,1
+1975,1978,CW,6,Cambodia,Khmer Rouge repression of dissidents,1500000,a b e g k,1
+1975,1979,IV,1,Mozambique,Rhodesian armed incursions,1400,i p,0
+,,,,Zimbabwe,,,,0
+1975,1978,IW,2,Cambodia,International war,10000,h n,0
+,,,,Vietnam,,,,0
+1975,1989,CW,3,Mauritania,Colonial war (Western Sahara),15000,a b c d f g h j k l o,0
+,,,,Morocco,,,,0
+1975,1990,CV,2,Laos,Civil violence (rebel Lao and Hmong),10000,d f g k l,1
+1975,1991,EV,2,Indonesia,Ethnic violence (Aceh),15000,j l o,1
+1975,1991,EW,5,Lebanon,Ethnic war (Various sects),100000,a b c d g h k l o,1
+1975,1992,EW,2,Bangladesh,Ethnic war (Chittagong Hills),25000,d j l o,1
+1975,2002,CW,6,Angola,Civil war (UNITA),1000000,a b c d f g h j k l o p,1
+1975,2005,CV,1,Angola,Civil violence (Cabinda separatists; FLEC),3500,p,1
+1975,2013,CV,4,Colombia,"Civil violence, land reform, and drug trafficking (left: ELN, FARC, ELP, MAO, M-19; right: MAS, AUC)",57500,a d f h k l o p,1
+1976,1976,EV,1,South Africa,Ethnic violence,1000,a d k o,1
+1976,1976,CV,1,Sudan,Islamic Charter Front,1000,p,1
+1976,1980,CW,3,Argentina,"""The Dirty War"" repression of dissidents",20000,a b e f k,1
+1976,1992,CW,5,Indonesia,Colonial war (East Timor),180000,a b c d e f g h j k l o,1
+1977,1977,IV,1,Angola,International violence (dispute over Shaba),1000,f g,0
+,,,,Zaire,,,,0
+1977,1979,EW,2,Ethiopia,"""Ogaden War"" ethnic violence (Somalis)",10000,b c f g h n o,1
+1977,1980,EV,2,Turkey,Ethnic violence (Armenians),5000,a b,1
+1977,1983,CW,2,Zaire,Repression of dissidents,10000,e k,1
+1977,1987,IV,1,Cambodia,International violence,1000,i n,0
+,,,,Thailand,,,,0
+1978,1978,IV,2,Israel,International violence (PLO factions),5000,d,0
+,,,,Lebanon,,,,0
+1978,1978,IV,1,Angola,International violence (dispute over Shaba),1000,f g,0
+,,,,Zaire,,,,0
+1978,1978,CV,1,Somalia,Military faction,500,p,1
+1978,1978,CV,1,South Yemen,Ouster of President Ali; factional fighting,750,p,1
+1978,1979,IV,1,North Yemen,International violence,1000,i p,0
+,,,,South Yemen,,,,0
+1978,1979,CW,3,Nicaragua,Civil war (Sandinistas),40000,a b c f g h k o,1
+1978,1979,IW,2,Tanzania,International war (ouster of Idi Amin),3000,a b c g h n,0
+,,,,Uganda,,,,0
+1978,1989,IW,5,Cambodia,International war (ouster of Khmer Rouge),65000,a b c d f g h o,0
+,,,,Vietnam,,,,0
+1978,1993,CW,4,Iran,Civil war (Islamic state),50000,a b c d e f h k l o,1
+1978,2002,CW,7,Afghanistan,Civil war,1000000,a b c d e f g h j k l o p,1
+1979,1979,IW,4,China,International war,30000,a b c f g h n,0
+,,,,Vietnam,,,,0
+1979,1980,CV,1,South Korea,"Unrest, riots, and government repression",1000,a k,1
+1979,1982,CW,3,Syria,Repression of dissidents (Muslim Brotherhood),25000,a b e f k,1
+1979,1985,EW,3,Iran,Ethnic war (Kurds),40000,j k o,1
+1979,1992,CW,6,El Salvador,Civil war (FMLN),75000,a b c d e f g h k l o,1
+1979,1979,EV,3,Iraq,Ethnic violence (Shias),25000,f h j o p,1
+1980,1980,CV,1,Brazil,Repression of dissidents (death squads),1000,a,1
+1980,1980,CV,1,Jamaica,Civil violence (elections),1000,a f,1
+1980,1985,EV,2,Nigeria,Ethnic violence (Islamic groups),9000,a f h k o p,1
+1980,1988,IW,6,Iran,International war,500000,a b c f g h n,0
+,,,,Iraq,,,,0
+1980,1988,IV,3,Soviet Union,Direct Intervention in Afghanistan civil war,50000,a b c d e f g h j k l o p,1
+1980,1998,EV,2,China,"Ethnic violence (Uighurs, Kazakhs)",10000,j k o p,1
+1981,1981,EV,1,Ghana,Civil violence (Konkomba v Nanumba),1000,a f,1
+1981,1981,CV,1,Gambia,SRLP rebellion,650,p,1
+1981,1986,CW,4,Uganda,Repression of dissidents,100000,a e f h k o,1
+1981,1986,IV,1,Honduras,International violence; Contra armed forces,2000,i p,0
+,,,,Nicaragua,,,,0
+1981,1987,EV,2,Zimbabwe,Ethnic violence (Ndebele),3000,a f k o,1
+1981,1990,CW,3,Nicaragua,Civil war (Contras),30000,a b d f g h k l o,1
+1981,1992,CW,6,Mozambique,Civil war (RENAMO),500000,a b d f g h k l o,1
+1982,1982,IV,1,Israel,International violence,1000,h n,0
+,,,,Syria,,,,0
+1982,1982,IW,1,Argentina,Falklands-Malvinas War,1000,a b f g h n,0
+,,,,United Kingdom,,,,0
+1982,1990,IW,4,Israel,International war,50000,a b,0
+,,,,Lebanon,,,,0
+1982,1997,CV,3,Peru,Civil violence (Sendero Luminoso),30000,a b d f h j k l o p,1
+1983,1983,CV,2,India,Civil violence (elections in Assam),3000,a,1
+1983,1984,CV,2,China,Repression of dissidents,5000,a,1
+1983,1993,EW,3,India,Ethnic warfare (Sikhs),25000,a b d f h j k l,1
+1983,1996,EW,3,South Africa,Ethnic/civil warfare,20000,a d j k l o,1
+1983,1998,EV,1,Pakistan,Ethnic violence (Sindhis; Muhajirs),5000,k,1
+1983,2009,EW,5,Sri Lanka,Ethnic war (Tamils),75000,a b d e f g h j k l o p,1
+1983,2002,EW,6,Sudan,Ethnic war (Islamic v African),1000000,a b d f h j k l o p,1
+1984,1984,CV,1,Cameroon,Military faction,750,p,1
+1984,1984,EV,1,Zaire,Ethnic/civil warfare,1000,k,1
+1984,1999,EW,3,Turkey,Ethnic warfare (Kurds),40000,d g h j k l p,1
+1985,1985,CW,2,Liberia,Repression of dissidents (failed coup),5000,a,1
+1985,1987,IW,2,China,International war,4000,h n,0
+,,,,Vietnam,,,,0
+1986,1987,CW,2,South Yemen,Civil war,10000,a b h k o,1
+1986,1989,EW,1,Suriname,Rebellion by Surinamese Liberation Army (black-Maroons),900,p,1
+1986,1993,EV,2,Nigeria,Ethnic violence (Muslim-Christian),10000,j o,1
+1986,2006,EV,2,Uganda,Ethnic violence (Lord's Resistance Army: Langi and Acholi),16000,d j k l o p,1
+1987,1987,IV,1,China,International violence,1000,a i,0
+,,,,Vietnam,,,,0
+1987,1987,CV,2,Chile,Civil violence,3000,a b,1
+1987,1990,CW,4,Sri Lanka,Civil war (JVP-Sinhalese extremists),25000,h k l o,1
+1988,1988,CV,1,Myanmar,Civil violence (student protests),2000,k,1
+1988,1988,EV,3,Burundi,Ethnic violence (Tutsis against Hutus),10000,a b h k o,1
+1988,1997,EW,3,Azerbaijan,Ethnic War (Nagorno-Karabakh),15000,h j k l n o p,1
+1988,1997,EW,1,Papua New Guinea,Ethnic warfare (Bougainville),1000,k l o p,1
+1988,2013,CW,5,Somalia,Civil war,115000,a b d h j k l o p,1
+1989,1989,CV,1,China,Civil violence (Tiananman protests),2000,a k,1
+1989,1989,IV,1,Panama,International violence,1000,a l,0
+,,,,USA,,,,0
+1989,1989,CV,1,Romania,Civil violence,1000,a h k l o,1
+1989,1989,IV,2,Mauritania,Reciprocal violence against foreign nationals; forced repatriation,500,l p,0
+,,,,Senegal,,,,0
+1990,1989,CW,1,China,Repression of dissidents,2000,a,1
+1990,1991,EV,2,Soviet Union,Sporadic ethnic/communal violence,5000,k l,1
+1990,1991,IW,5,Iraq,Gulf War,100000,h l n,0
+,,,,Kuwait,,,,0
+1990,1994,EW,3,Rwanda,Ethnic warfare (Tutsis v Hutu regime)5,15000,h j k l o,1
+1990,1994,IW,3,Armenia,International war (Nagorno-Karabakh),10000,h j k l n o,0
+,,,,Azerbaijan,,,,0
+1990,1995,EV,1,Mali,Ethnic violence (Tuareg),1000,k o p,1
+1990,1997,CW,4,Liberia,Civil war,40000,a d h j k l o p,1
+1990,1997,EV,1,Niger,Ethnic violence (Azawad and Toubou),1000,l o,1
+1990,1997,CW,2,Cambodia,Civil warfare (Khmer Rouge),5000,l,1
+1990,2012,EW,3,India,Ethnic war (Kashmiris),43500,j k l o p,1
+1991,1991,CW,2,Croatia,Civil war (Croatian independence),10000,h k l,1
+1991,1991,CV,1,Burundi,Civil violence,1000,h l,1
+1991,1991,CV,1,Haiti,Military coup ousts Aristide,700,k l p,1
+1991,1993,EV,2,Bhutan,Rebellion and forced repatriation of Lhotshampas (ethnic-Nepalese),1200,p,1
+1991,1993,CW,1,Georgia,Civil war,1000,h k l,1
+1991,1993,EW,2,Georgia,Ethnic war (Abkhazians-Ossetians),3000,h j k l o,1
+1991,1993,EV,1,Kenya,"Ethnic violence (Kalenjin, Masai, Kikuyu, Luo)",2000,j k o,1
+1991,1994,CW,1,Djibouti,FRUD rebellion,1000,l o,1
+1991,1995,EW,3,Croatia,Ethnic war (Serbs),40000,j k l o,1
+1991,1997,EV,1,Moldova,Ethnic violence (Trans-Dniester Russians),2000,j k l o p,1
+1991,2001,CW,3,Sierra Leone,Civil/Ethnic warfare (RUF/Mende),25000,k l m p,1
+1991,2004,CW,4,Algeria,Civil warfare (Islamic militants),60000,k l o p,1
+1991,2002,EV,2,India,Ethnic violence (Ayodhya Movement; Hindu vs Muslim),3500,j,1
+1992,1995,EW,6,Bosnia and Herzegovina,"Ethnic war (Serbs, Croats, Muslims)",200000,h j k l o,1
+1992,1996,EV,2,DR Congo,Ethnic violence,10000,j k o,1
+1992,1998,CW,3,Tajikistan,Civil warfare,25000,h k l o p,1
+1992,1999,CV,1,Egypt,Civil violence (Islamic militants),2000,k o p,1
+1992,1999,EV,1,Senegal,Ethnic violence (Casamance),3000,l p,1
+1993,1993,EV,1,Congo,Ethnic violence,2000,m,1
+1993,2005,EW,4,Burundi,Ethnic warfare (Tutsis against Hutus),100000,j k l p,1
+1994,1994,EW,7,Rwanda,Ethnic violence (Hutus target Tutsis)5,500000,k l o,1
+1994,1994,EV,1,Ghana,Ethnic violence,1000,m,1
+1994,1994,EW,1,Yemen,Ethnic warfare (south Yemenis),3000,l o,1
+1994,1996,EW,4,Russia,Ethnic war (Chechnya secession I),40000,k l o,1
+1994,1997,EV,1,Mexico,Ethnic violence (Chiapas),1000,l o p,1
+1994,1998,EW,3,Rwanda,Ethnic warfare (Hutus vs Tutsi regime)5,15000,p,1
+1995,1995,IV,1,Ecuador,International violence (border dispute),1000,l,0
+,,,,Peru,,,,0
+1996,1998,EW,1,Iraq,Ethnic warfare (Kurds),2000,k l p,1
+1996,2006,CW,2,Nepal,"Civil war (UPF ""People's War"")",8000,l p,1
+1996,2013+,CW,5,DR Congo,Civil War (ouster of Mobutu & aftermath; Interhamwe in NE),2500000,k l p,1
+1996,2002,IV,2,Rwanda,Direct Intervention in DRCongo civil war,3500,l p,1
+1996,2002,IV,1,Uganda,Direct Intervention in DRCongo civil war,1200,l p,1
+1997,1999,CW,3,Congo,Civil warfare,10000,l p,1
+1997,1997,CV,2,Albania,Civil violence (Pyramid Schemes),2000,l p,1
+1997,2005,EV,1,Indonesia,Ethnic violence (Aceh; GAM militants),3000,l p,1
+1997,2010,EV,1,Nigeria,"Communal violence (Delta province; Ijaw, Itsekeri, and others)",2500,l p,1
+1997,2013,EV,1,Pakistan,"Sectarian violence: Sunnis, Shi'ites, and Ahmadis",4000,l p,1
+1998,1999,EW,4,Yugoslavia,Ethnic war (Kosovar Albanians),15000,l p,1
+1998,1998,CV,2,Indonesia,Civil violence (ouster of Suharto),2000,l p,1
+1998,1988,EW,1,Georgia,Ethnic warfare (Abkhazia),1000,l p,1
+1998,1999,CW,2,Guinea-Bissau,Civil war (coup attempt),6000,l p,1
+1998,2000,IW,5,Eritrea,Interstate war,100000,l p,0
+,,,,Ethiopia,,,,0
+1998,2003,IV,1,Iraq,International violence (US/UK airstrikes),1000,l p,1
+1998,2003,EV,1,Solomon Islands,Communal violence (Malaita/Isatabu islanders),500,l p,1
+1999,1999,IV,1,India,International violence (Kargil clashes),1500,l p,0
+,,,,Pakistan,,,,0
+1999,1999,CV,2,Indonesia,Ethnic violence (East Timor independence),3000,l p,1
+1999,2002,EV,1,Indonesia,Ethnic violence (Moluccas; Muslim/Christian),3500,l p,1
+1999,1999,IV,3,Yugoslavia,International violence (NATO airstrikes),1000,l p,1
+1999,2000,EW,1,Ethiopia,Ethnic war (Oromo separatists),2000,l p,1
+1999,2006,EW,4,Russia,Ethnic war (Chechnya secession II),30000,l p,1
+2000,2001,CV,1,Guinea,Parrot's Beak clashes,1000,l p,1
+2000,2003,CV,1,Liberia,Civil violence (attacks by LURD guerillas),1000,l p,1
+2000,2005,CW,2,Cote dIvoire,"Civil war (north, south, and west divisions)",3000,l p,1
+2001,2001,EV,1,Indonesia,Communal (Dayaks vs Madurese immigrants),1000,l p,1
+2001,2001,EW,1,Rwanda,Ethnic war (attacks by Hutu guerillas),2500,l p,1
+2001,2001,IV,2,United States,Al Qaeda attacks on New York/Washington,3000,l p,1
+2001,2003,CV,1,Central African Republic,Civil violence (attacks by Bozize loyalists; coup),1000,l p,1
+2001,2004,EV,3,Nigeria,"Ethnic violence (Christian-Muslim; Plateau, Kano regions)",55000,l p,1
+2001,2013,IW,3,Afghanistan,Ouster of Taliban; Hunt for al Qaeda,42000,l p,1
+2001,2013,CV,2,India,Maoist insurgency (People's War Group; Maoist Communist Centre; People's Liberation Guerrilla Army),7200,l p,1
+2002,2003,CV,1,Congo,Civil violence (Ninja militants in Pool region),500,l p,1
+2003,2003,CV,1,Thailand,Anti-Drug Traffiking Campaign,2500,l p,1
+2003,2010,IW,6,Iraq,"US-led Ouster of Hussein-Ba'athist regime and consequent sectarian strife: Sunnis, Shias, Kurds, and foreign al Qaeda",150000,l p,1
+2003,2010,IW,2,United States,Invasion of Iraq and military occupation,4400,l p,1
+2003,2007,CV,1,Saudi Arabia,Islamic Militants,700,l p,1
+2003,2013,EV,5,Sudan,Communal-separatist violence in Darfur,350000,l p,1
+2004,2013,CV,1,Yemen,Followers of al-Huthi in Sadaa,3500,l p,1
+2004,2007,CV,1,Haiti,General unrest surrounding ouster of President Aristide and his Lavalas Family ruling party,2000,l p,1
+2004,2013,EW,4,Pakistan,Pashtuns in Federally Administered Tribal Areas,38250,l p,1
+2004,2013,EV,1,Thailand,"Malay-Muslims in southern border region (Narathiwat, Pattani, Songkhla, and Yala provinces)",4000,l p,1
+2004,2013,EV,1,Turkey,Kurds in the southeast,2500,l p,1
+2005,2013,EV,1,Pakistan,Rebellion in Baluchistan,3000,l p,1
+2005,2010,CW,1,Chad,"Anti-Deby regime: United Front for Democratic Change (FUC), Union of Forces for Democracy and Development (UFDD), and others",2000,l p,1
+2005,2013,EW,2,Central African Republic,"APRD (northwest), UFDR (northeast), and Seleka rebels",5000,l p,1
+2005,2013,IV,1,United States,Stabilization operation in Afghanistan,2200,l p,1
+2006,2006,IV,2,Israel,Israel vs Hezbollah,1500,l p,0
+,,,,Lebanon,,,,0
+2006,2008,EV,1,Kenya,Sabaot Land Defense Forces (SLDF) rebellion in Mt. Elgon,800,l p,1
+2006,2013,CV,3,Mexico,"Federal Army and police offensive against entrenched drug cartels and corrupt police and officials, mainly in the northern region bordering the USA",75000,l p,1
+2006,2010,EV,2,Chad,"Communal fighting between Toroboro (""black"" sedentary farmer) and Janjawid (""arab"" pastoralist) militias",5000,l p,1
+2007,2008,EV,1,Lebanon,Palestinian/Islamist militants,500,l p,1
+2007,2013,EV,1,Ethiopia,Somalis (ONLF) and Oromo (OLF) militants in Ogaden region,2800,l p,1
+2008,2008,IW,1,Georgia,South Ossetia War,850,l p,0
+,,,,Russia,,,,0
+2008,2008,EV,3,Kenya,Communal violence following disputed presidential election,1500,l p,1
+2008,2008,EV,1,Nigeria,Communal violence in Jos: Christian and Muslim,800,l p,1
+2008,2013,EV,1,Russia,"Ethnic violence (Islamist militants in eastern Transcaucasus region: Chechnya, Dagestan, and Ingushetia)",4000,l p,1
+2009,2013,CW,2,Nigeria,Rebellion by radical-Muslim Boko Haram in north border region,8000,l p,1
+2009,2013,EV,1,South Sudan,Communal violence in south: Lou Nuer and Murle; rebel militias,3500,l p,1
+2010,2013,EV,1,Nigeria,Communal violence in Jos/Plateau state: Christian and Muslim,3000,l p,1
+2010,2010,EV,2,Kyrgyzstan,"Ethnic violence (Kyrgyz; Uzbeks, following ouster of Bakiyev)",600,l p,1
+2011,2011,CV,1,Egypt,Popular protests against Mubarak regime,1000,l p,1
+2011,2011,CW,2,Cote dIvoire,Rejection of December 2010 presidential election results by regime leads to resumption of civil war and ends with arrest of President Gbagbo,3000,l p,1
+2011,2013,EV,3,Iraq,Continuing Sunni-Shia sectrian strife,15500,l p,1
+2011,2013,EW,5,Syria,Popular protests and regime crackdown trigger warfare with ethnic-Sunni miltants and Islamiist-extremists against Assad's ethnic-Alawite regime,140000,l p,1
+2011,2011,CW,4,Libya,Anti-Gaddhafi elements centered in the eastern coastal region; NATO intervention,25000,l p,1
+2011,2013,CV,1,Yemen,"Anti-Saleh demonstrations, southern separatists, army mutiny, clan rivalry, and al Qaeda militants",4000,l p,1
+2011,2013,EV,1,Sudan,Armed supporters of the Sudanese People's Liberation Movement (SPLM-North) in South Kordofan and Blue Nile states,3000,l p,1
+2012,2013,CV,1,Mali,"Islamist Ansar Dine and ethnic-Tuareg ""Azawad"" separatists",1000,l p,1
+2013,2013,CV,1,Egypt,Military ouster of President Morsi and crackdown on MUslim Brotherhood; Islamist rebellion in Sinai and south,2000,p,1
+2013,2013,EW,3,South Sudan,Rebellion by ethnic Nuer supporters of Reik Machar leads to war with ethnic Dinka supporters of President Salva Kiir,10000,p,1
+2013,2013,EV,1,DR Congo,Ethnic Mai Mai separatist rebellion in Katanga Province,750,p,1
