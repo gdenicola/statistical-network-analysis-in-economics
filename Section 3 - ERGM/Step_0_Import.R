@@ -8,6 +8,13 @@
 # ---------------------------------------------------------------------------- #
 # ---------------------------------------------------------------------------- #
 
+
+# This script preprocesses the data contained in the "Data" folder,
+# producing the files (already uploaded) in the "RData" folder.
+# The script was included for completeness, and it is not necessary for
+# reproducing the ERGM modeling as in the paper (given that the
+# preprocessed data is already contained in the "RData" folder).
+
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))  
 
 library(reshape2)
