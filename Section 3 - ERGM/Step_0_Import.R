@@ -51,7 +51,7 @@ exo_data = add_democracy(exo_data)
 # Data Sources: 
 # SIPRI Arms Transfers Database
 # https://www.sipri.org/databases/armstransfers
-dfl = fread("Data/DealsAndTIVs-2022-08-01-12 28 04.txt",skip = 2)
+dfl = fread("Data/DealsAndTIVs-2022-08-01-12 28 04.txt",nrows = 11043)
 changeCols<- names(dfl)
 dfl = dfl[dfl$Seller != ""]
 # There seems to be Problem with deals whose description includes in the raw data a ; in the Description 
