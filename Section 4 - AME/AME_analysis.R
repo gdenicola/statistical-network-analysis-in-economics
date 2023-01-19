@@ -1,5 +1,5 @@
 #loading necessary libraries
-library(statnet)
+library(network)
 library(dplyr)
 library(amen)
 library(abind)
@@ -13,7 +13,7 @@ data <- flandreau_jobst_internationalcurrencies_data
 
 #creating network object and adjacency matrix
 df <- as.data.frame(cbind(flandreau_jobst_internationalcurrencies_data$country_A,flandreau_jobst_internationalcurrencies_data$country_B,flandreau_jobst_internationalcurrencies_data$quote1900))
-el <- filter(df,V3==1)
+el <- filter(df, V3 == 1)
 el <- select(el,V1,V2)
 net <- network(el, edgelist= T,lab=T)
 Y2 <- as.matrix(net)
@@ -74,7 +74,7 @@ fitAME<-ame(Y2, Xdyad = Xd, Xcol = Xn, Xrow = Xn, R = 2, family = "bin",
 #fitting the Classical Probit model
 probmod<-ame(Y2, Xdyad = Xd, Xcol = Xn, Xrow = Xn, R = 0, family = "bin",
              plot = T, print = F, intercept = T,seed = 123,rvar = F,cvar = F,
-             dcor = F,nvar = F)
+             dcor = F)
 
 
 
